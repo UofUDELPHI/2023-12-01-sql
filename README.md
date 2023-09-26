@@ -1,5 +1,36 @@
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
 
+
+# Instructions for modifying the Website
+
+## Website location
+
+The website for this workshop has been rendered here: [https://uofudelphi.github.io/2023-12-01-sql/](https://uofudelphi.github.io/2023-12-01-sql/)
+
+## Modifying the lessons
+
+The SQL lessons can be found on the [Software Carpentry website](https://swcarpentry.github.io/sql-novice-survey/).
+
+
+## Updating the schedule
+
+The html code for the schedule table can be found in `_includes/swc/schedule.html`. Changes to this file that are pushed to github will be automatically rendered on the main website ([https://uofudelphi.github.io/2023-12-01-sql/](https://uofudelphi.github.io/2023-12-01-sql/)) within a few minutes.
+
+
+## Editing general website information
+
+Much of the general information on the website can be found in the `index.md` file, and changes to this file (when pushed to github or made online) will be automatically rendered after a few minutes.
+
+## Editing the setup information
+
+The code for determining structure of the setup section on the main website can be found in the `_includes/swc/setup.html` file, but the instructions for the individual setup sections can be found in the `_includes/install_instructions/` folder. Modifications to this file (when pushed to github or made online) will be automatically rendered after a few minutes.
+
+
+
+
+
+
+
 # The Carpentries Workshop Template
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
