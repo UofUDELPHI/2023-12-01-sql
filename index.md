@@ -366,6 +366,6 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  Participants will need to bring a laptop that can connect to a web browser.
+  Participants will need to bring a laptop that can connect to the internet via a web browser.
 </p>
 
