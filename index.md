@@ -303,6 +303,15 @@ change the value of `carpentry` to `incubator`.
 <hr/>
 
 
+<h2 id="setup">Setup</h2>
+
+<p>
+If you'd like to try and get set up before the workshop, you can try and <a href="https://git-scm.com/downloads">install git</a> to your machine and sign up for a free <a href="https://github.com/">GitHub account</a>.
+</p>
+<hr/>
+{% endif %}
+
+
 {% comment %}
 SCHEDULE
 
